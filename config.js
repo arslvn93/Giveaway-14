@@ -134,12 +134,12 @@ const config = {
       "twitter": "https://twitter.com/intent/tweet?url=https%3A%2F%2FGiveaway-14.netlify.app%2Fadmin&text=Win%20%24200%20to%20Vivo%20Pizza%20%26%20Pasta%20%E2%80%93%20Local%20Family%20Night%20Out!"
     },
     "subtitle": "Enter your details below for your shot at this delicious $200 pizza & pasta prize!",
-    "entryCountText": "Many local families have already entered! Don’t miss your chance to win.",
+    "entryCountText": "Many locals have already entered! Don’t miss your chance to win.",
     "socialSharePrompt": "Share the fun—invite your friends and neighbors to enter too:"
   },
   "modalQuestions": [
     {
-      "id": "q_auto_1752679822963_0",
+      "id": "q_auto_1752679926445_0",
       "questionText": "When planning a special evening out, how important is it to you that the restaurant is close to home or work?",
       "options": [
         {
@@ -161,7 +161,7 @@ const config = {
       ]
     },
     {
-      "id": "q_auto_1752679822963_1",
+      "id": "q_auto_1752679926445_1",
       "questionText": "Vivo Pizza & Pasta offers a spacious setting ideal for gatherings. How often do you entertain guests or host celebrations at home?",
       "options": [
         {
@@ -183,7 +183,7 @@ const config = {
       ]
     },
     {
-      "id": "q_auto_1752679822963_2",
+      "id": "q_auto_1752679926445_2",
       "questionText": "When visiting restaurants, how often do you notice design elements or layout that you’d love to replicate in your own home?",
       "options": [
         {
@@ -205,7 +205,7 @@ const config = {
       ]
     },
     {
-      "id": "q_auto_1752679822963_3",
+      "id": "q_auto_1752679926445_3",
       "questionText": "What most influenced your decision to dine at or choose a local business?",
       "options": [
         {
@@ -251,8 +251,8 @@ const config = {
       "email": "rick@istreetrealty.ca"
     },
     "footerDisclaimer": "This giveaway is sponsored by Rick Roccasalva and iStreet Realty Group. Not affiliated with Vivo Pizza & Pasta. Contest closes August 24th, 2025. Winner chosen randomly from eligible entries. Must be 18+ and local resident to enter.",
-    "organizerLogoUrl": "https://prod-files-secure.s3.us-west-2.amazonaws.com/8e0c10a0-da43-409c-b191-91135b7161ff/2ad1f3a4-7cea-45f4-bef2-b56767bf550e/brokeragelogo.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=ASIAZI2LB4666YZR7MZW%2F20250714%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20250714T205413Z&X-Amz-Expires=3600&X-Amz-Security-Token=IQoJb3JpZ2luX2VjEBsaCXVzLXdlc3QtMiJHMEUCIEjjpW4xo%2ByWKSIpfa8QmJN%2FhdXW9LLnGJUkMmZlx3RaAiEA07ej6CXkCZZIFhiw35%2BGOLQbzanHgQjmwmjrkcdfGV0q%2FwMINBAAGgw2Mzc0MjMxODM4MDUiDPJ7TLiRE1qehWO9cyrcAwFMKoMhFjJOxp3Sev29K4034ACZTUXcDX6x5Ex3LaTZ%2BM%2B%2F6m7q%2Bfb7RF3LCiRJlBEmlEQDk2WrD%2BDxOCB1fSmZ9x92y%2Fc%2FeasQLW8WwiyKEXNIULdYqRRxvIpBBmZxw2IlAOunEEsvLK2EImcxRq3zIUpn1uX2qXAOUXjtBo0NvoxGv%2BgoJFBED3Xo4LGydKjeiRDYyVm07SSnRBo2QmKak94%2Faydcq0j3TK77lw28ldjX9o%2BS0e3opSoAsyQAvC7BYJrifXVVJLyhoFA6G8mIHWzUWK%2BRMxsKa6MMLmoc0C%2BcqYwvrbrDUbGzcGYmz%2FMl%2BuBrtGa%2BM5i1cBuPT%2BeIPHg2VhqRXyt3ABy5EAM%2BeMaxYOKO%2BFW4%2B6xECAkMsHL8lOj2gv7m25UClLATdBPU%2FuCErBKB%2F%2BOXCXXXCH2uyHXnlVuRxfbl4b2IIUzJpu1R%2F9ryuZNDsYKFms6rqpx0l4N29owrw02OyIISRm1FVfH%2FiNB5OQ7nSTxqK0bGttHKxeaUa0%2FinhGTs9LC0Vi1x020%2FDpkJoMqN3P3aFadI9nXxSLyZHukh9REZT3QnkQowYa5zz0oD%2FjJXRVkApRgDNEQx2oRYngy7yiChqziA0kR7U8eQDgMifXCMPyj1cMGOqUBFwwExb0sMezPyGz4wnVsLt45C%2B7vIdiAMufEvW%2BQDhBO2kguixsWV%2BxCeye7MuZuEdWa5LRqL1pomBRfIu6U94DYv4cnsBqL%2BpYXCg5mNolHzYPigeK4gKlfpR9eVcps2q6mCIJGV8i0jsykjXZxEgQhLdqP3RIAWucaG8BKIGqEco38KYbiWxxDrQURm4y3oD8DsBa4%2FOEZZkhdRO1958SZk7Qh&X-Amz-Signature=ecad1b7a25e7db599c145cd062d8d438f0a3e2ee8d92d8d7fa89e55f8b8194bf&X-Amz-SignedHeaders=host&x-amz-checksum-mode=ENABLED&x-id=GetObject",
-    "secondaryLogoUrl": "",
+    "organizerLogoUrl": "https://scontent-yyz1-1.xx.fbcdn.net/v/t39.30808-6/493031615_122095293998856443_7140761223656455265_n.jpg?_nc_cat=104&ccb=1-7&_nc_sid=6ee11a&_nc_eui2=AeH67xk4WS80NOO7KXGkD7yjufjiVJEoeiW5-OJUkSh6JX_k2XSo0gYY2zYHMaS3ROm70Y9grpSLyutDwaEfou4t&_nc_ohc=mQirwHNZurMQ7kNvwGGv19-&_nc_oc=Adn_oJ0QU8FQWIL5tFc9oWMN06DtP0r_NiVH5JFwgvnTD3Gqyxr7b_wcWuQ1r3n-ykw&_nc_zt=23&_nc_ht=scontent-yyz1-1.xx&_nc_gid=puf8X8czq58Vz9ix3G8r-w&oh=00_AfQhjSiWs2tVY75TLKX2YWvA68iHKQtZd4aqyTNl60cvWA&oe=687D8099",
+    "secondaryLogoUrl": "https://www.homelifepartnersrealty.com/files/themeManager/74/theme18/HL_Luxury_BLK_BKRND.png",
     "secondaryLogoAlt": "HomeLife Partners Brokerage Logo",
     "organizerName": "iStreet Realty Group",
     "brokerageName": "HomeLife Partners",
