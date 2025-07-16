@@ -83,7 +83,7 @@ const config = {
         "description": "Enter your name and email below and answer 3 simple questions. It only takes 30 seconds!"
       },
       {
-        "icon": "fas fa-instagram",
+        "icon": "fas fa-ig",
         "title": "Follow us on Instagram",
         "description": "Follow us on Instagram at @iStreetRealtyGroup"
       },
@@ -139,7 +139,7 @@ const config = {
   },
   "modalQuestions": [
     {
-      "id": "q_auto_1752680633254_0",
+      "id": "q_auto_1752680662456_0",
       "questionText": "When planning a special evening out, how important is it to you that the restaurant is close to home or work?",
       "options": [
         {
@@ -161,7 +161,7 @@ const config = {
       ]
     },
     {
-      "id": "q_auto_1752680633254_1",
+      "id": "q_auto_1752680662456_1",
       "questionText": "Vivo Pizza & Pasta offers a spacious setting ideal for gatherings. How often do you entertain guests or host celebrations at home?",
       "options": [
         {
@@ -183,7 +183,7 @@ const config = {
       ]
     },
     {
-      "id": "q_auto_1752680633254_2",
+      "id": "q_auto_1752680662456_2",
       "questionText": "When visiting restaurants, how often do you notice design elements or layout that you’d love to replicate in your own home?",
       "options": [
         {
@@ -205,7 +205,7 @@ const config = {
       ]
     },
     {
-      "id": "q_auto_1752680633255_3",
+      "id": "q_auto_1752680662456_3",
       "questionText": "What most influenced your decision to dine at or choose a local business?",
       "options": [
         {
