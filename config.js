@@ -120,12 +120,12 @@ const config = {
     "faq": [],
     "tips": [],
     "fairSelectionInfo": {
-      "title": "",
-      "text": ""
+      "title": "How We Choose the Winner",
+      "text": "The Winner will be chosen randomly between all the entries, only people who follow us on Instagram are eligible to win"
     },
     "importantNotice": {
-      "title": "",
-      "text": ""
+      "title": "Winner Notification - Check Your Email!",
+      "text": "We'll send an Email confirmation immediately after you sign up"
     }
   },
   "entryForm": {
@@ -139,7 +139,7 @@ const config = {
   },
   "modalQuestions": [
     {
-      "id": "q_auto_1752680207955_0",
+      "id": "q_auto_1752680270624_0",
       "questionText": "When planning a special evening out, how important is it to you that the restaurant is close to home or work?",
       "options": [
         {
@@ -161,7 +161,7 @@ const config = {
       ]
     },
     {
-      "id": "q_auto_1752680207955_1",
+      "id": "q_auto_1752680270624_1",
       "questionText": "Vivo Pizza & Pasta offers a spacious setting ideal for gatherings. How often do you entertain guests or host celebrations at home?",
       "options": [
         {
@@ -183,7 +183,7 @@ const config = {
       ]
     },
     {
-      "id": "q_auto_1752680207955_2",
+      "id": "q_auto_1752680270624_2",
       "questionText": "When visiting restaurants, how often do you notice design elements or layout that you’d love to replicate in your own home?",
       "options": [
         {
@@ -205,7 +205,7 @@ const config = {
       ]
     },
     {
-      "id": "q_auto_1752680207955_3",
+      "id": "q_auto_1752680270624_3",
       "questionText": "What most influenced your decision to dine at or choose a local business?",
       "options": [
         {
