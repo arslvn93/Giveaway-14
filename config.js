@@ -1,7 +1,7 @@
 const config = {
   "meta": {
     "pageTitle": "Win $200 to Vivo Pizza & Pasta – Local Family Night Out!",
-    "navBrandLogoText": "Rick Roccasalva",
+    "navBrandLogoText": "iStreet Realty Group",
     "privacyPolicyLink": "https://istreetrealty.ca/privacy-policy/"
   },
   "giveaway": {
@@ -139,7 +139,7 @@ const config = {
   },
   "modalQuestions": [
     {
-      "id": "q_auto_1752680270624_0",
+      "id": "q_auto_1752680633254_0",
       "questionText": "When planning a special evening out, how important is it to you that the restaurant is close to home or work?",
       "options": [
         {
@@ -161,7 +161,7 @@ const config = {
       ]
     },
     {
-      "id": "q_auto_1752680270624_1",
+      "id": "q_auto_1752680633254_1",
       "questionText": "Vivo Pizza & Pasta offers a spacious setting ideal for gatherings. How often do you entertain guests or host celebrations at home?",
       "options": [
         {
@@ -183,7 +183,7 @@ const config = {
       ]
     },
     {
-      "id": "q_auto_1752680270624_2",
+      "id": "q_auto_1752680633254_2",
       "questionText": "When visiting restaurants, how often do you notice design elements or layout that you’d love to replicate in your own home?",
       "options": [
         {
@@ -205,7 +205,7 @@ const config = {
       ]
     },
     {
-      "id": "q_auto_1752680270624_3",
+      "id": "q_auto_1752680633255_3",
       "questionText": "What most influenced your decision to dine at or choose a local business?",
       "options": [
         {
