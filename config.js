@@ -35,16 +35,16 @@ const config = {
   "prize": {
     "images": [
       {
-        "src": "https://static.wixstatic.com/media/9f81c2_7e0d007eb5104e0da3bcf606329b3121~mv2.jpg/v1/fill/w_640,h_400,al_c,q_80,usm_0.66_1.00_0.01,enc_avif,quality_auto/9f81c2_7e0d007eb5104e0da3bcf606329b3121~mv2.jpg",
-        "alt": "Vivo Pizza & Pasta"
-      },
-      {
-        "src": "https://static.wixstatic.com/media/9f81c2_461033c8d74443b58e83ebf63030a513~mv2.jpg/v1/fill/w_640,h_268,al_c,q_80,usm_0.66_1.00_0.01,enc_avif,quality_auto/9f81c2_461033c8d74443b58e83ebf63030a513~mv2.jpg",
-        "alt": "Vivo Pizza & PAsta Restaurant View"
-      },
-      {
-        "src": "https://img.cdn4dd.com/cdn-cgi/image/fit=cover,width=600,height=400,format=auto,quality=80/https://doordash-static.s3.amazonaws.com/media/store/header/ab096bc7-ccf5-478e-a754-2a774482ffe3.jpg",
+        "src": "https://tb-static.uber.com/prod/image-proc/processed_images/d5831b003d3623ba8e4f1a2b71f2c63f/fb86662148be855d931b37d6c1e5fcbe.jpeg",
         "alt": "Dinner for two with fresh pasta and pizza"
+      },
+      {
+        "src": "https://resizer.otstatic.com/v3/photos/75372722-2?width=1280&height=720&webp=true",
+        "alt": "Vivo Pizza & Pasta Restaurant View"
+      },
+      {
+        "src": "https://tb-static.uber.com/prod/image-proc/processed_images/14a49e3036cc0b6da440f5b9ccd93b8e/16bb0a3ab8ea98cfe8906135767f7bf4.webp",
+        "alt": "Italian Seafood at Vivo Pizza & Pasta"
       }
     ],
     "includedItems": [
@@ -139,7 +139,7 @@ const config = {
   },
   "modalQuestions": [
     {
-      "id": "q_auto_1752679939444_0",
+      "id": "q_auto_1752680132042_0",
       "questionText": "When planning a special evening out, how important is it to you that the restaurant is close to home or work?",
       "options": [
         {
@@ -161,7 +161,7 @@ const config = {
       ]
     },
     {
-      "id": "q_auto_1752679939444_1",
+      "id": "q_auto_1752680132042_1",
       "questionText": "Vivo Pizza & Pasta offers a spacious setting ideal for gatherings. How often do you entertain guests or host celebrations at home?",
       "options": [
         {
@@ -183,7 +183,7 @@ const config = {
       ]
     },
     {
-      "id": "q_auto_1752679939444_2",
+      "id": "q_auto_1752680132042_2",
       "questionText": "When visiting restaurants, how often do you notice design elements or layout that you’d love to replicate in your own home?",
       "options": [
         {
@@ -205,7 +205,7 @@ const config = {
       ]
     },
     {
-      "id": "q_auto_1752679939444_3",
+      "id": "q_auto_1752680132042_3",
       "questionText": "What most influenced your decision to dine at or choose a local business?",
       "options": [
         {
