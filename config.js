@@ -143,90 +143,68 @@ const config = {
   },
   "modalQuestions": [
     {
-      "id": "q_auto_1752682551974_0",
-      "questionText": "When planning a special evening out, how important is it to you that the restaurant is close to home or work?",
+      "id": "q_auto_1752692118538_0",
+      "questionText": "What do you like the most about your current home?",
       "options": [
         {
-          "value": "High importance",
-          "text": "High importance"
+          "value": "The location",
+          "text": "The location"
         },
         {
-          "value": "Moderate importance",
-          "text": "Moderate importance"
+          "value": "The layout",
+          "text": "The layout"
         },
         {
-          "value": "Low importance",
-          "text": "Low importance"
+          "value": "The finishes (paint, lighting, etc)",
+          "text": "The finishes (paint, lighting, etc)"
         },
         {
-          "value": "No preference",
-          "text": "No preference"
+          "value": "The outdoor space",
+          "text": "The outdoor space"
         }
       ]
     },
     {
-      "id": "q_auto_1752682551974_1",
-      "questionText": "Vivo Pizza & Pasta offers a spacious setting ideal for gatherings. How often do you entertain guests or host celebrations at home?",
+      "id": "q_auto_1752692118538_1",
+      "questionText": "Is a move on your radar in the near future?",
       "options": [
         {
-          "value": "Often",
-          "text": "Often"
+          "value": "Yes, sometime in 2025",
+          "text": "Yes, sometime in 2025"
         },
         {
-          "value": "Sometimes",
-          "text": "Sometimes"
+          "value": "Yes, in the next 1–2 years",
+          "text": "Yes, in the next 1–2 years"
         },
         {
-          "value": "Rarely",
-          "text": "Rarely"
+          "value": "Not at the moment",
+          "text": "Not at the moment"
         },
         {
-          "value": "Never",
-          "text": "Never"
+          "value": "I’m not sure yet",
+          "text": "I’m not sure yet"
         }
       ]
     },
     {
-      "id": "q_auto_1752682551974_2",
-      "questionText": "When visiting restaurants, how often do you notice design elements or layout that you’d love to replicate in your own home?",
+      "id": "q_auto_1752692118538_2",
+      "questionText": "What’s your current housing situation?",
       "options": [
         {
-          "value": "Often",
-          "text": "Often"
+          "value": "I rent and am interested in buying",
+          "text": "I rent and am interested in buying"
         },
         {
-          "value": "Sometimes",
-          "text": "Sometimes"
+          "value": "I own and might sell within 2 years",
+          "text": "I own and might sell within 2 years"
         },
         {
-          "value": "Rarely",
-          "text": "Rarely"
+          "value": "I own and am happy where I am",
+          "text": "I own and am happy where I am"
         },
         {
-          "value": "Never",
-          "text": "Never"
-        }
-      ]
-    },
-    {
-      "id": "q_auto_1752682551974_3",
-      "questionText": "What most influenced your decision to dine at or choose a local business?",
-      "options": [
-        {
-          "value": "Community atmosphere",
-          "text": "Community atmosphere"
-        },
-        {
-          "value": "Quality of food",
-          "text": "Quality of food"
-        },
-        {
-          "value": "Convenience from home",
-          "text": "Convenience from home"
-        },
-        {
-          "value": "Recommendations from social circles",
-          "text": "Recommendations from social circles"
+          "value": "I’m actively looking to buy or sell now",
+          "text": "I’m actively looking to buy or sell now"
         }
       ]
     }
