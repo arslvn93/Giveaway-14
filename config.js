@@ -139,7 +139,7 @@ const config = {
   },
   "modalQuestions": [
     {
-      "id": "q_auto_1752679926445_0",
+      "id": "q_auto_1752679939444_0",
       "questionText": "When planning a special evening out, how important is it to you that the restaurant is close to home or work?",
       "options": [
         {
@@ -161,7 +161,7 @@ const config = {
       ]
     },
     {
-      "id": "q_auto_1752679926445_1",
+      "id": "q_auto_1752679939444_1",
       "questionText": "Vivo Pizza & Pasta offers a spacious setting ideal for gatherings. How often do you entertain guests or host celebrations at home?",
       "options": [
         {
@@ -183,7 +183,7 @@ const config = {
       ]
     },
     {
-      "id": "q_auto_1752679926445_2",
+      "id": "q_auto_1752679939444_2",
       "questionText": "When visiting restaurants, how often do you notice design elements or layout that you’d love to replicate in your own home?",
       "options": [
         {
@@ -205,7 +205,7 @@ const config = {
       ]
     },
     {
-      "id": "q_auto_1752679926445_3",
+      "id": "q_auto_1752679939444_3",
       "questionText": "What most influenced your decision to dine at or choose a local business?",
       "options": [
         {
@@ -237,7 +237,7 @@ const config = {
     "pageTitle": "Thank You for Your Entry!",
     "headerText": "You’re In!",
     "mainMessage": "Your entry for the <strong>Vivo Pizza & Pasta $200 Gift Card Giveaway</strong> has been received. We’ll pick and email the winner on August 25th. Good luck—you could be enjoying the perfect Italian meal soon!",
-    "socialPromptText": "Stay tuned to your inbox! Make sure to also follow us on social media for winner updates and local news."
+    "socialPromptText": "Stay tuned to your inbox! Make sure to also follow us on Instagram for winner updates and local news."
   },
   "footerContact": {
     "social": {
