@@ -137,13 +137,13 @@ const config = {
       "facebook": "https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2FGiveaway-14.netlify.app%2Fadmin",
       "twitter": "https://twitter.com/intent/tweet?url=https%3A%2F%2FGiveaway-14.netlify.app%2Fadmin&text=Win%20%24200%20to%20Vivo%20Pizza%20%26%20Pasta%20%E2%80%93%20Local%20Family%20Night%20Out!"
     },
-    "subtitle": "Enter your details below for your shot at this delicious $200 pizza & pasta prize!",
+    "subtitle": "Enter your details below for your shot at this delicious $200 pizza & pasta prize! Remember to give us a follow on Instagram at the end to be eligible for winning!",
     "entryCountText": "Many locals have already entered! Don’t miss your chance to win.",
     "socialSharePrompt": "Share the fun—invite your friends and neighbors to enter too:"
   },
   "modalQuestions": [
     {
-      "id": "q_auto_1752692167421_0",
+      "id": "q_auto_1752692188547_0",
       "questionText": "What do you like the most about your current home?",
       "options": [
         {
@@ -165,7 +165,7 @@ const config = {
       ]
     },
     {
-      "id": "q_auto_1752692167421_1",
+      "id": "q_auto_1752692188547_1",
       "questionText": "Is a move on your radar in the near future?",
       "options": [
         {
@@ -187,7 +187,7 @@ const config = {
       ]
     },
     {
-      "id": "q_auto_1752692167421_2",
+      "id": "q_auto_1752692188547_2",
       "questionText": "What’s your current housing situation?",
       "options": [
         {
