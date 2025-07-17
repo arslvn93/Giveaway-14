@@ -29,7 +29,7 @@ const config = {
     "ghlWebhookUrl": "https://services.leadconnectorhq.com/hooks/KyeQTgnX03giMLGAsQCM/webhook-trigger/RplTeFtCsOIqY7HylpYg",
     "facebookPixelId": "1057475448873422",
     "salesGeniusAppApi": "",
-    "followUpBossEmail": "",
+    "followUpBossEmail": "rick.roccasalva@followupboss.me",
     "webhookUrl": "https://n8n.salesgenius.co/webhook/giveawayupdate"
   },
   "prize": {
@@ -143,7 +143,7 @@ const config = {
   },
   "modalQuestions": [
     {
-      "id": "q_auto_1752726586505_0",
+      "id": "q_auto_1752728196195_0",
       "questionText": "What do you like the most about your current home?",
       "options": [
         {
@@ -165,7 +165,7 @@ const config = {
       ]
     },
     {
-      "id": "q_auto_1752726586505_1",
+      "id": "q_auto_1752728196195_1",
       "questionText": "Is a move on your radar in the near future?",
       "options": [
         {
@@ -187,7 +187,7 @@ const config = {
       ]
     },
     {
-      "id": "q_auto_1752726586505_2",
+      "id": "q_auto_1752728196195_2",
       "questionText": "What’s your current housing situation?",
       "options": [
         {
@@ -248,6 +248,6 @@ const config = {
     "repoUrl": "https://github.com/arslvn93/Giveaway-14",
     "netlifyUrl": "http://Giveaway-14.netlify.app",
     "netlifyId": "",
-    "tag": "Vivo Pizza & Pasta Giveaway"
+    "tag": "Vivo Giveaway"
   }
 };
