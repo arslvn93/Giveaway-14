@@ -143,7 +143,7 @@ const config = {
   },
   "modalQuestions": [
     {
-      "id": "q_auto_1752728196195_0",
+      "id": "q_auto_1752777334554_0",
       "questionText": "What do you like the most about your current home?",
       "options": [
         {
@@ -165,7 +165,7 @@ const config = {
       ]
     },
     {
-      "id": "q_auto_1752728196195_1",
+      "id": "q_auto_1752777334554_1",
       "questionText": "Is a move on your radar in the near future?",
       "options": [
         {
@@ -187,7 +187,7 @@ const config = {
       ]
     },
     {
-      "id": "q_auto_1752728196195_2",
+      "id": "q_auto_1752777334554_2",
       "questionText": "What’s your current housing situation?",
       "options": [
         {
@@ -218,8 +218,8 @@ const config = {
     },
     "pageTitle": "Thank You for Your Entry!",
     "headerText": "You’re In!",
-    "mainMessage": "Your entry for the <strong>Vivo Pizza & Pasta $200 Gift Card Giveaway</strong> has been received. We’ll pick and email the winner on August 25th. Good luck—remember to follow us on instagram to be eligible to win!",
-    "socialPromptText": "Stay tuned to your inbox! Make sure to also follow us on our socials for winner updates and local news."
+    "mainMessage": "Your entry for the <strong>Vivo Pizza & Pasta $200 Gift Card Giveaway</strong> has been received!",
+    "socialPromptText": "<strong>Important:</strong> To complete your entry, make sure to follow us on Instagram. The winner will be selected exclusively from our Instagram followers on August 25th. Check your email on the winner selection date. Good luck!"
   },
   "footerContact": {
     "social": {
