@@ -143,7 +143,7 @@ const config = {
   },
   "modalQuestions": [
     {
-      "id": "q_auto_1752835475929_0",
+      "id": "q_auto_1752835676657_0",
       "questionText": "What do you like the most about your current home?",
       "options": [
         {
@@ -165,7 +165,7 @@ const config = {
       ]
     },
     {
-      "id": "q_auto_1752835475929_1",
+      "id": "q_auto_1752835676657_1",
       "questionText": "Is a move on your radar in the near future?",
       "options": [
         {
@@ -187,7 +187,7 @@ const config = {
       ]
     },
     {
-      "id": "q_auto_1752835475929_2",
+      "id": "q_auto_1752835676657_2",
       "questionText": "What’s your current housing situation?",
       "options": [
         {
@@ -217,7 +217,7 @@ const config = {
       "tiktok": ""
     },
     "pageTitle": "Thank You for Your Entry!",
-    "headerText": "You’re In!",
+    "headerText": "You’re Almost In..",
     "mainMessage": "Your entry for the <strong>Vivo Pizza & Pasta $200 Gift Card Giveaway</strong> has been received!",
     "socialPromptText": "<strong>Important:</strong> To complete your entry, make sure to follow us on Instagram. The winner will be selected exclusively from our Instagram followers on August 25th. Check your email on the winner selection date. Good luck!"
   },
